@@ -1,0 +1,32 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+
+# Build outputs
+/build/
+/captures/
+/cxx/
+/externalNativeBuild/
+
+# OS/system files
+.DS_Store
+
+# Keystore files (nên đặt vào riêng)
+*.jks
+
+# Other local config
+local.properties
+
+# Log files
+*.log
+
+# NDK / CMake
+.cxx/
