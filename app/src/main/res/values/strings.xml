@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChefShare</string>
+    <string name="recipe_image">Ảnh món ăn</string>
+    <string name="default_web_client_id">261420243744-nkm295el65alsh58ce615o1j9egqem99.apps.googleusercontent.com</string>
+</resources>
