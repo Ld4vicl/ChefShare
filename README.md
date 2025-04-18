@@ -32,9 +32,8 @@ Nhấn nút Run (hoặc Shift + F10) để chạy ứng dụng
 
 ## 🧑‍💻 Công nghệ sử dụng
 
-- Frontend: React / React Native
-- Backend: Node.js, Express
-- Cơ sở dữ liệu: MongoDB
+- Backend: PHP
+- Cơ sở dữ liệu: MySQlite
 - Authentication: Firebase Auth
 - Hosting: Vercel / Firebase Hosting
 
